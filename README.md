@@ -115,12 +115,14 @@ ugc-ad-director/
     │   ├── tech.md                 3C 数码
     │   ├── apparel.md              服饰
     │   └── _template.md            新增品类照此填写
-    ├── output-contract.md          九项输出的字段与格式契约
+    ├── output-contract.md          九项输出的字段与格式契约（含无人出镜分支）
     ├── hooks.md                    四类钩子写法与合规边界
-    ├── script.md                   口播脚本时间分配与词数控制
-    ├── shots.md                    镜头清单规范
+    ├── script.md                   口播脚本时间分配与词数控制（12/15/30 秒，对口型与纯旁白）
+    ├── shots.md                    镜头清单规范与风险分级
     ├── seedance-prompt.md          提示词四层结构与完整示例
+    ├── reference-images.md         参考图策略（锚点资格、场景参考图 @image3、动态锚点规则）
     ├── product-lock.md             产品一致性约束写法
+    ├── iteration.md                生成反馈迭代（穿帮定位、最小修改、拆段生成）
     └── compliance.md               合规红线
 ```
 
